@@ -31,7 +31,7 @@
 
  **Findings**: The current model demonstrates the technical capability to process and correlate unstructured text with market volatility.
 
-# Project Structure
+## Project Structure
 ```text
 Twitter-Stock-Impact/
 ├── assets/             # Project images and dashboard screenshots
@@ -40,10 +40,11 @@ Twitter-Stock-Impact/
 ├── src/                # Modular Python scripts for fetching & processing
 ├── app.py              # Streamlit Dashboard application
 └── requirements.txt    # Environment dependencies
+```
 
-```markdown
-### Dashboard Preview
+## Dashboard Preview
 ![NVDA Dashboard Preview](assets/dashboard_preview.png)
+
 
 ##  Key Findings (2025-2026 Analysis)
 - **Model Used**: FinBERT (Financial BERT) via HuggingFace, processed on GPU (Google Colab).
