@@ -41,7 +41,6 @@ Twitter-Stock-Impact/
 ├── app.py              # Streamlit Dashboard application
 └── requirements.txt    # Environment dependencies
 
-
 ```markdown
 ### Dashboard Preview
 ![NVDA Dashboard Preview](assets/dashboard_preview.png)
